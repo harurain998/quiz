@@ -1,0 +1,32 @@
+[
+  {
+    "question": "1+1=",
+    "answers": [
+      "0",
+      "1",
+      "2",
+      "3"
+    ],
+    "correctAnswer": 2
+  },
+  {
+    "question": "円周率の小数第25位は？",
+    "answers": [
+      "1",
+      "2",
+      "3",
+      "4"
+    ],
+    "correctAnswer": 2
+  },
+  {
+    "question": "あ",
+    "answers": [
+      "い",
+      "う",
+      "え",
+      "お"
+    ],
+    "correctAnswer": 1
+  }
+]
